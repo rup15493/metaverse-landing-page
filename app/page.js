@@ -22,6 +22,7 @@ const Page = () => (
       <Feedback />
     </div>
     <Footer />
+
   </div>
 );
 
